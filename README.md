@@ -37,3 +37,5 @@ The codebase currently contains:
 ### 1. Clone this repository
 ```bash
 git clone https://github.com/iamnotgoodatprogrammingplshelp/duolingo_clone.git
+## 📦 Installation
+cd duolingo_clone
