@@ -4,12 +4,12 @@ A language learning platform inspired by Duolingo — currently a work in progre
 The goal is to build an AI-powered tool that helps people learn languages interactively.  
 Feel free to contribute or suggest features! 
 
-## 🧠 About The Project
+##  About The Project
 
 This repository contains frontend and backend code for a Duolingo-style language learning app, including an AI component to assist with language practice and exercises.  
 The project is in early development — you’re invited to help shape it! 
 
-## 📌 Features (Planned)
+##  Features (Planned)
 
 ✔ Interactive lessons  
 ✔ Vocabulary practice  
@@ -33,9 +33,7 @@ The codebase currently contains:
 - RESTful API / backend logic  
 
 
-## 📥 Getting Started
 
-### 1. Clone this repository
 ```bash
 git clone https://github.com/iamnotgoodatprogrammingplshelp/duolingo_clone.git
 ## 📦 Installation
