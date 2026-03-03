@@ -11,14 +11,14 @@ The project is in early development — you’re invited to help shape it!
 
 ##  Features (Planned)
 
-✔ Interactive lessons  
-✔ Vocabulary practice  
-✔ Grammar exercises  
-✔ AI-assisted language feedback  
-✔ User progress tracking  
-✔ Leaderboards and gamification  
-✔ User Feed ack and reporting for Misstranslations etc 
-✔ Financial transactions duoling premium if you will 
+ Interactive lessons  
+ Vocabulary practice  
+ Grammar exercises  
+ AI-assisted language feedback  
+ User progress tracking  
+ Leaderboards and gamification  
+ User Feed ack and reporting for Misstranslations etc 
+ Financial transactions duoling premium if you will 
 *(Development in progress — more features coming soon!)*
 
 ---
