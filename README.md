@@ -23,7 +23,7 @@ The project is in early development — you’re invited to help shape it!
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 The codebase currently contains:
 
