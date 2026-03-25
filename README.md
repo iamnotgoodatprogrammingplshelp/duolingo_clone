@@ -21,7 +21,6 @@ The project is in early development — you’re invited to help shape it!
  Financial transactions duoling premium if you will 
 *(Development in progress — more features coming soon!)*
 
----
 
 ##  Tech Stack
 
