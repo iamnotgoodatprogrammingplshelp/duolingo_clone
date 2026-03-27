@@ -27,9 +27,7 @@ The project is in early development — you’re invited to help shape it!
 The codebase currently contains:
 
 - **TypeScript** & **JavaScript**  
-- **Python** (likely for AI/backend)  
-- Web frontend frameworks (based on folder structure)  
-- RESTful API / backend logic  
+- **Python**
 
 
 
